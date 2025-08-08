@@ -12,7 +12,7 @@ This project demonstrates hosting a static HTML website using Amazon S3.
 - Accessed the website via the provided S3 endpoint URL.
 
 ## Live website link
-[[Your S3 Endpoint URL here]](http://kanika-day1-static-site.s3-website-ap-southeast-2.amazonaws.com/)
+http://kanika-day1-static-site.s3-website-ap-southeast-2.amazonaws.com/
 
 ## Architecture Diagram
 ![Diagram](./diagram.png)
