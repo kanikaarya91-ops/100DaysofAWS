@@ -15,4 +15,4 @@ This project demonstrates hosting a static HTML website using Amazon S3.
 http://kanika-day1-static-site.s3-website-ap-southeast-2.amazonaws.com/
 
 ## Architecture Diagram
-![Diagram](./diagram.png)
+![Diagram](StaticWebsite.png)
