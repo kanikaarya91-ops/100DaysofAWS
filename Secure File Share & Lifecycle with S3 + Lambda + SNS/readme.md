@@ -29,19 +29,19 @@ This project automates the movement of files uploaded to an S3 bucket to an arch
 
 ## Lambda Function Code
 
-```python
+python
 <your-lambda-code-here>
 
-##Testing
+## Testing
 Upload a test file to the upload bucket
 Verify the file moves to the archive bucket
 Check your email for notification
 
-##Future Improvements
+## Future Improvements
 Add Slack or SMS notifications
 Implement retries and error handling improvements
 Add CloudFormation or Terraform for infra as code
 
-Author
+## Author
 Kanika Arya
 
